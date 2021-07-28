@@ -6,4 +6,3 @@ tag: note
 author: Luke Gong
 ---
 
-Hello
