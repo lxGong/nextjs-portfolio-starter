@@ -5,7 +5,7 @@ description: The points or the questions when I learning.
 tag: note
 author: Luke Gong
 ---
-##Linux 2021/9/24
+## Linux 2021/9/24
 
 
 
