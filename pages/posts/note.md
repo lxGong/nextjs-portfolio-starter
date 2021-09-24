@@ -6,6 +6,7 @@ tag: note
 author: Luke Gong
 ---
 ##Linux 2021/9/24
+
 Could not retrieve mirrorlist http://mirrorlist.centos.org/?release=7&arch=x86_64&repo=os&infra=stock error was
 14: curl#6 - "Could not resolve host: mirrorlist.centos.org; Unknown error"
 
